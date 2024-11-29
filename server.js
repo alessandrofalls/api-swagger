@@ -1,4 +1,4 @@
-//Reference guide: https://www.youtube.com/watch?v=4sR77vaEhy8
+//Reference guide https://www.youtube.com/watch?v=4sR77vaEhy8
 
 const express = require('express');
 const swaggerUi = require('swagger-ui-express');
